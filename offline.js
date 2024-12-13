@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734120603,
+	"version": 1734129826,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -269,6 +269,8 @@
 		"media/miniontowater-sound.ogg",
 		"media/sword-sound.m4a",
 		"media/sword-sound.ogg",
+		"media/matthi-damage2.m4a",
+		"media/matthi-damage2.ogg",
 		"media/game-music.m4a",
 		"media/game-music.ogg",
 		"media/menu-music.m4a",
