@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734209173,
+	"version": 1734459748,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -253,6 +253,9 @@
 		"images/salidalaser-sheet0.png",
 		"images/sogabolahorizontal1-sheet0.png",
 		"images/tiranivel-sheet0.png",
+		"images/enemiesmidreference-sheet0.png",
+		"images/trampabuscaminas-sheet0.png",
+		"images/matthiboxminescollision-sheet0.png",
 		"media/axe-sound.m4a",
 		"media/axe-sound.ogg",
 		"media/boss-damage.m4a",
