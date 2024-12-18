@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734557793,
+	"version": 1734559114,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -290,6 +290,8 @@
 		"media/miniontofloor-sound.ogg",
 		"media/minesweeper-drums.m4a",
 		"media/minesweeper-drums.ogg",
+		"media/power-up.m4a",
+		"media/power-up.ogg",
 		"media/game-music.m4a",
 		"media/game-music.ogg",
 		"media/menu-music.m4a",
