@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1734538231,
+	"version": 1734546815,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -258,6 +258,7 @@
 		"images/matthiboxminescollision-sheet0.png",
 		"images/mensajebosscomienzobuscaminas-sheet0.png",
 		"images/mensajebossfinbuscaminas-sheet0.png",
+		"images/energypowerhud-sheet0.png",
 		"media/axe-sound.m4a",
 		"media/axe-sound.ogg",
 		"media/boss-damage.m4a",
